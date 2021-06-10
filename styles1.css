@@ -1,0 +1,47 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Brygada+1918:wght@600&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+
+body{
+
+    margin: 0;
+    padding: 0;
+    background-color: #eceff5;
+}
+
+
+p{
+    color: black;
+    font-weight: bold;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: larger;
+}
+
+
+
+
+img{
+    margin-bottom: 10px;
+}
+
+
+ul li a{
+    color: black !important;
+    text-decoration: none;
+}
+
+
+ul li a:hover{
+    text-decoration: underline;
+}
+
+#container div:hover{
+    background-color: white;
+    transition: all ease 0.8s;
+    transform: scale(1.1);
+}
